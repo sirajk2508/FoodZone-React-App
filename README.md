@@ -35,8 +35,11 @@ It provides users with the ability to browse restaurants, view menu items, and a
 ### Cart Items
 ![Cart Items](./Cart%20Items.png)
 
-### Food Ordering Website (GIF)
-![Food Ordering Website](./Food%20Ordering%20Website.gif)
+### Food Ordering Website 1 (GIF)
+![Food Ordering Website](./Food%20Ordering%20Website2.gif)
+
+### Food Ordering Website 2 (GIF)
+![Food Ordering Website](./Food%20Ordering%20Website2.gif)
 
 
 ## Getting Started
