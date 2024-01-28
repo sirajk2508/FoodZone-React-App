@@ -17,6 +17,28 @@ It provides users with the ability to browse restaurants, view menu items, and a
 
 - **React Router DOM:** Navigation within the app is facilitated by React Router DOM for a seamless user experience.
 
+
+## Screenshots and Demo
+
+### Main Page
+![Main Page](./Main%20Page.png)
+
+### Searched Restaurant
+![Searched Restaurant](./Searched%20Restaurant.png)
+
+### Restaurant
+![Restaurant](./Restaurant.png)
+
+### Restaurant Menu
+![Restaurant Menu](./Restaurant%20Menu.png)
+
+### Cart Items
+![Cart Items](./Cart%20Items.png)
+
+### Food Ordering Website (GIF)
+![Food Ordering Website](./Food%20Ordering%20Website.gif)
+
+
 ## Getting Started
 
 ### Installation
@@ -36,7 +58,11 @@ It provides users with the ability to browse restaurants, view menu items, and a
 3. Install dependencies:
 
     ```bash
-    npm install
+    npm i -D parcel
+    npm i react
+    npm i react-dom
+    npm i react-router-dom
+    npm i -D tailwindcss postcss
     ```
 
 ### Usage
